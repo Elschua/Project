@@ -1,1 +1,3 @@
+Mettre en place un environnement de virtualisation avec plusieurs service a disposition pour un test eventuel.
+Pour faire cela, nous avons choisi Proxmox pour notre environnement de virtualisation car il est Opensource
 

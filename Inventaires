@@ -1,2 +1,5 @@
-vm debian 11
-ip en static
+Serveur physique Hp proliant ML 310e Gen 8 (8 core 16 Threads avec 32GB de ram )
+Un disque de 500GB pour le systeme et un disque de 500GB pour les stocké les VMs et Backup
+Configuration des disques en RAID 0
+Installation de l'hyperviseur 
+Parametrage
